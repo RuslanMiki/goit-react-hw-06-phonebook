@@ -1,4 +1,4 @@
-import { createSlice, CreateSlice } from "@reduxjs/toolkit";
+import { createSlice} from "@reduxjs/toolkit";
 
 const filterSlice = createSlice({
     name: 'filter',
